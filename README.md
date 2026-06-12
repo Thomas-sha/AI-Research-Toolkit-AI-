@@ -38,7 +38,6 @@ A collection of AI-augmented methodology skills for market research professional
 |------|------|------|
 | [`desk-research-ai`](skills/SKILL-desk-research-ai.md) | AI辅助竞品/行业案头研究：PESTEL扫描→信源分级→结构化输出 | AI-assisted desk research: PESTEL scanning → source grading → structured output |
 | [`nps-system`](skills/SKILL-nps-system.md) | NPS追踪体系搭建与分析：指标体系→SEM驱动分析→Dashboard→年度追踪 | NPS system design & analysis: indicator system → SEM modeling → dashboard → trend tracking |
-| [`foresight-scenario-planning`](skills/SKILL-foresight-scenario-planning.md) | 战略前瞻与情景规划：趋势张力→未来三角→4象限情景→需求验证 | Strategic foresight & scenario planning: trend tensions → futures triangle → 4-quadrant scenarios |
 
 *更多Skill持续更新中。More skills coming.*
 
