@@ -26,7 +26,7 @@ A collection of AI-augmented methodology skills for market research professional
 
 - 20年+市场研究与消费者洞察经验 | 20+ years in market research & consumer insights
 - 汽车 · 家电 · 消费电子 | Auto · Home Appliance · Consumer Electronics
-- 前 Kantar TNS / GfK / 品创方略 研究总监 | Former Research Director
+- 前调研咨询公司 研究总监 | Former Research Director
 - 正在用AI重新定义市场研究的工作方式 | Redefining market research with AI
 - 公众号：智能时代的知识工作者
 
