@@ -1,4 +1,4 @@
-# AI-Research-Toolkit-AI-
+# AI-Research-Toolkit
 一套面向市场研究从业者的AI增强方法论Skill集合。每个Skill包含：  
  - 方法论核心思想与标准流程
  - AI加速的具体环节与工具链
